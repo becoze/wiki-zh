@@ -31,6 +31,8 @@
       - 流程控制
         - [流程和控制](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/1.Flow-control.md)
         - [分支控制](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/2.Branching.md)
+        - [循环控制](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
+        - [return](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
       - OOP
           - [Polymorphic 1](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
