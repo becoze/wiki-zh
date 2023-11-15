@@ -33,6 +33,10 @@
         - [分支控制](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/2.Branching.md)
         - [循环控制](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/3.Loop.md)
         - [return](/zh-cn/Java/1.Java-Basic/4.Conditional-Statement/4.return.md)
+      - 数组
+        - [数组的定义](/zh-cn/Java/1.Java-Basic/5.Array/0.Array.md)
+        - [1.数组初始化](/zh-cn/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
+        - [2.数组赋值](/zh-cn/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
       - OOP
           - [Polymorphic 1](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
