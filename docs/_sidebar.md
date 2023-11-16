@@ -37,6 +37,12 @@
         - [数组的定义](/zh-cn/Java/1.Java-Basic/5.Array/0.Array.md)
         - [1.数组初始化](/zh-cn/Java/1.Java-Basic/5.Array/1.Initializing-Arrays.md)
         - [2.数组赋值](/zh-cn/Java/1.Java-Basic/5.Array/2.Array-Assignment.md)
+        - [3.数组的使用](/zh-cn/Java/1.Java-Basic/5.Array/3.Using-Arrays.md)
+        - [拷贝和反转数组](/zh-cn/Java/1.Java-Basic/5.Array/4.Array-Copy&Reverse.md)
+        - [扩容和缩减数组空间](/zh-cn/Java/1.Java-Basic/5.Array/5.Resizing-Array-Space.md)
+        - [冒泡排序](/zh-cn/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
+        - [查找](/zh-cn/Java/1.Java-Basic/5.Array/7.Search.md)
+        - [二维数组](/zh-cn/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
       - OOP
           - [Polymorphic 1](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
           - [Polymorphic 2](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
