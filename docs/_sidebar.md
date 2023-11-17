@@ -43,10 +43,10 @@
         - [冒泡排序](/zh-cn/Java/1.Java-Basic/5.Array/6.Bubble-Sort.md)
         - [查找](/zh-cn/Java/1.Java-Basic/5.Array/7.Search.md)
         - [二维数组](/zh-cn/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
-      - OOP
-          - [Polymorphic 1](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-1.md)
-          - [Polymorphic 2](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-2.md)
-          - [Polymorphic 3](/zh-cn/Java/1.Java-Basic/7.OOP/Polymorphic-3.md)
+      - OOP-Basic
+        - [Class & Object](/en/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
+        - [Create Class Properties & Methods](/en/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
+        - [Memory Allocation Mechanism](/en/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
 
