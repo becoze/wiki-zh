@@ -44,9 +44,9 @@
         - [查找](/zh-cn/Java/1.Java-Basic/5.Array/7.Search.md)
         - [二维数组](/zh-cn/Java/1.Java-Basic/5.Array/8.TwoD-Array.md)
       - OOP-Basic
-        - [Class & Object](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
-        - [Create Class Properties & Methods](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
-        - [Memory Allocation Mechanism](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
+        - [类 & 对象](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/1.Class&Object.md)
+        - [创建类, 属性 & 方法](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
+        - [内存分配机制](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
         - [属性](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/4.Field.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
