@@ -48,6 +48,7 @@
         - [创建类, 属性 & 方法](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/2.Create-Class-Properties&Methods.md)
         - [内存分配机制](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
         - [属性](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/4.Field.md)
+        - [方法](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/5.Method.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
 
