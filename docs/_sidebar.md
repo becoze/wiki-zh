@@ -49,6 +49,9 @@
         - [内存分配机制](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/3.Memory-Allocation-Mechanism.md)
         - [属性](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/4.Field.md)
         - [方法](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/5.Method.md)
+        - [方法参数传递机制](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/6.Parameter-Passing-Mechanism.md)
+        - [递归](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/7.Recursion.md)
+        - [重载](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
 
