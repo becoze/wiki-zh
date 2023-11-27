@@ -65,3 +65,4 @@
 
 - LeetCode - algorithm
   - [1.两数之和](/zh-cn/LeetCode/1.Tow-Sum.md)
+  - [1727. 重新排列后的最大子矩阵](/zh-cn/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
