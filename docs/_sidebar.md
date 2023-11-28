@@ -53,6 +53,7 @@
         - [递归](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/7.Recursion.md)
         - [重载](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
         - [变量参数](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
+        - [复制对象](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/10.Cloning-Objects.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
 
