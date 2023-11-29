@@ -66,4 +66,5 @@
 
 - LeetCode - algorithm
   - [1. 两数之和](/zh-cn/LeetCode/1.Tow-Sum.md)
+  - [191. 位 1 的个数](/zh-cn/LeetCode/191.Number-of-1-Bits.md)
   - [1727. 重新排列后的最大子矩阵](/zh-cn/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
