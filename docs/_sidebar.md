@@ -54,6 +54,8 @@
         - [重载](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/8.Overload.md)
         - [变量参数](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/9.Variable-Args.md)
         - [复制对象](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/10.Cloning-Objects.md)
+        - [作用域](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/11.Scope.md)
+        - [构造器](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/12.Constructor.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
 
