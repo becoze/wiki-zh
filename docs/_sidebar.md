@@ -56,6 +56,7 @@
         - [复制对象](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/10.Cloning-Objects.md)
         - [作用域](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/11.Scope.md)
         - [构造器](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/12.Constructor.md)
+        - [this & this()](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/13.this&this().md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
 
