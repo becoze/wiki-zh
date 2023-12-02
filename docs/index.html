@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
   <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
   <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
+  <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
 </head>
 <body>
   <div id="app">Loading ...</div>
@@ -35,7 +36,7 @@
       },
       loadSidebar: true,
       loadNavbar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 0,
       sidebarDisplayLevel: 1,
       search: {
         paths: 'auto',
@@ -60,7 +61,13 @@
 
       mermaidConfig: {
         querySelector: ".mermaid"
-      }
+      },
+
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2',
+        title: 'Table of Contents',
+      },
     }
   </script>
   <!-- Docsify v4 -->
@@ -73,6 +80,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="https://unpkg.com/docsify-hide-code"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-hide-code/dist/docsify-hide-code.min.js"></script>
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
   <script type="module">
     import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
     mermaid.initialize({ startOnLoad: true });
