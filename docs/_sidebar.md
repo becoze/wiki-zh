@@ -75,5 +75,6 @@
   - [263. 丑数](/zh-cn/LeetCode/263.Ugly-Number.md)
   - [326. 三的幂](/zh-cn/LeetCode/326.Power-of-Three.md)
   - [1266. ⭐访问所有点的最小时间](/zh-cn/LeetCode/1266.Minimum-Time-Visiting-All-Points.md)
+  - [1716. ⭐计算力扣银行的钱](/en/LeetCode/1716.Calculate-Money-in-Leetcode-Bank.md)
   - [1727. ⭐重新排列后的最大子矩阵](/zh-cn/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
   - [2264. 字符串中最大的3位相同数字](/zh-cn/LeetCode/2264.Largest3Same-Digit-Number-in-String.md)
