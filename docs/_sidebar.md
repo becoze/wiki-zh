@@ -58,9 +58,9 @@
         - [<i class="fa-solid fa-hammer"></i> 构造器](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/11.Constructor.md)
         - [<i class="fa-solid fa-right-from-bracket"></i> this & this()](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/12.this&this().md)
       - 中级OOP
-        - [IDEA快捷键](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/1.IDEA-shortcut.md)
-        - [包](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/2.Package.md)
-        - [访问修饰符](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/3.Access-modifier.md)
+        - [<i class="fa-solid fa-rocket"></i> IDEA快捷键](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/1.IDEA-shortcut.md)
+        - [<i class="fa-solid fa-box-open"></i> 包](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/2.Package.md)
+        - [<i class="fa-solid fa-lock"></i> 访问修饰符](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/3.Access-modifier.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
   - [README](/zh-cn/BI/README.md)
