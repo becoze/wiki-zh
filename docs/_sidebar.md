@@ -59,11 +59,11 @@
         - [<i class="fa-solid fa-right-from-bracket"></i> this & this()](/zh-cn/Java/1.Java-Basic/6.OOP-Basic/12.this&this().md)
       - 中级OOP
         - [<i class="fa-solid fa-rocket"></i> IDEA快捷键](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/1.IDEA-shortcut.md)
-        - [Breakpoint](/en/Java/1.Java-Basic/7.OOP-Intermediate/2.Breakpoint.md)
+        - [<i class="fa-solid fa-bug"></i> 断点调试](/en/Java/1.Java-Basic/7.OOP-Intermediate/2.Breakpoint.md)
         - [<i class="fa-solid fa-box-open"></i> 包](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/2.Package.md)
         - [<i class="fa-solid fa-lock"></i> 访问修饰符](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/3.Access-modifier.md)
-        - [Encapsulation](/en/Java/1.Java-Basic/7.OOP-Intermediate/5.Encapsulation.md)
-        - [Extends(1.Basic)](/en/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
+        - [<i class="fa-solid fa-cube"></i> 封装](/en/Java/1.Java-Basic/7.OOP-Intermediate/5.Encapsulation.md)
+        - [<i class="fa-solid fa-code-branch"></i> 继承(1.基础)](/en/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
   - [README](/zh-cn/BI/README.md)
