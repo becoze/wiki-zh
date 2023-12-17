@@ -64,6 +64,8 @@
         - [<i class="fa-solid fa-lock"></i> 访问修饰符](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/4.Access-modifier.md)
         - [<i class="fa-solid fa-cube"></i> 封装](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/5.Encapsulation.md)
         - [<i class="fa-solid fa-code-branch"></i> 继承(1.基础)](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/6.Extends(1.Basic).md)
+        - [继承(2.细节)](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/7.Extends(2.Detail).md)
+        - [继承(3.调用顺序)](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/8.Extends(3.Order).md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
   - [README](/zh-cn/BI/README.md)
