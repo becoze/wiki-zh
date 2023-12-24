@@ -72,7 +72,7 @@
   - [content](/zh-cn/BI/content.md)
 
 
-- [Dev. log - 用户中心 User center ](/zh-cn/UserCenter/home.md)
+- [Dev. log - 用户中心 ⭐User center⭐ ](/zh-cn/UserCenter/home.md)
   - [README](/zh-cn/UserCenter/README.md)
   - [content](/zh-cn/UserCenter/content.md)
 
