@@ -84,6 +84,7 @@
   - [231. 二的幂](/zh-cn/LeetCode/231.Power-of-Tow.md)
   - [263. 丑数](/zh-cn/LeetCode/263.Ugly-Number.md)
   - [326. 三的幂](/zh-cn/LeetCode/326.Power-of-Three.md)
+  - [938. 二叉搜索树的范围和](/zh-cn/LeetCode/938.Range-Sum-of-BST.md)
   - [1266. ⭐访问所有点的最小时间](/zh-cn/LeetCode/1266.Minimum-Time-Visiting-All-Points.md)
   - [1582+2482. ⭐(二维矩阵的一维抽象化)](/zh-cn/LeetCode/1582+2482.md)
   - [1716. ⭐计算力扣银行的钱](/zh-cn/LeetCode/1716.Calculate-Money-in-Leetcode-Bank.md)
