@@ -67,6 +67,7 @@
         - [<i class="fa-solid fa-code-branch"></i> 继承(2.细节)](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/7.Extends(2.Detail).md)
         - [<i class="fa-solid fa-code-branch"></i> 继承(3.调用顺序)](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/8.Extends(3.Order).md)
         - [<i class="fa-solid fa-code-branch"></i> 继承(4.super)](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/9.Extends(4.supe).md)
+        - [555](/zh-cn/Java/1.Java-Basic/7.OOP-Intermediate/10.md)
         
 - [Dev. log - 智能BI](/zh-cn/BI/home.md)
   - [README](/zh-cn/BI/README.md)
