@@ -89,6 +89,7 @@
   - [938. 二叉搜索树的范围和](/zh-cn/LeetCode/938.Range-Sum-of-BST.md)
   - [1266. ⭐访问所有点的最小时间](/zh-cn/LeetCode/1266.Minimum-Time-Visiting-All-Points.md)
   - [1582+2482. ⭐(二维矩阵的一维抽象化)](/zh-cn/LeetCode/1582+2482.md)
+  - [1704. 判断字符串的两半是否相似](/zh-cn/LeetCode/1704.Determine-If-String-Halves-Are-Alike.md)
   - [1716. ⭐计算力扣银行的钱](/zh-cn/LeetCode/1716.Calculate-Money-in-Leetcode-Bank.md)
   - [1727. ⭐重新排列后的最大子矩阵](/zh-cn/LeetCode/1727.Largest-Submatrix-With-Rearrangements.md)
   - [1897. 重新分配字符使所有字符串都相等](/zh-cn/LeetCode/1897.Redistribute-Characters-to-Make-All-Strings-Equal.md)
